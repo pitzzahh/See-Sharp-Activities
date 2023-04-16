@@ -1,0 +1,15 @@
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\obj\Debug\net6.0\SchoolActivities.csproj.AssemblyReference.cache
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\obj\Debug\net6.0\SchoolActivities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\obj\Debug\net6.0\SchoolActivities.AssemblyInfoInputs.cache
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\obj\Debug\net6.0\SchoolActivities.AssemblyInfo.cs
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\obj\Debug\net6.0\SchoolActivities.csproj.CoreCompileInputs.cache
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\bin\Debug\net6.0\SchoolActivities.exe
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\bin\Debug\net6.0\SchoolActivities.deps.json
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\bin\Debug\net6.0\SchoolActivities.runtimeconfig.json
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\bin\Debug\net6.0\SchoolActivities.dll
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\bin\Debug\net6.0\SchoolActivities.pdb
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\obj\Debug\net6.0\SchoolActivities.dll
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\obj\Debug\net6.0\refint\SchoolActivities.dll
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\obj\Debug\net6.0\SchoolActivities.pdb
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\obj\Debug\net6.0\SchoolActivities.genruntimeconfig.cache
+C:\Users\pitzzahh\RiderProjects\SchoolActivities\SchoolActivities\obj\Debug\net6.0\ref\SchoolActivities.dll
