@@ -1,0 +1,11 @@
+C:\Users\pitzzahh\source\repos\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\pitzzahh\source\repos\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\pitzzahh\source\repos\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\pitzzahh\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\pitzzahh\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\pitzzahh\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.GuessingGame.resources
+C:\Users\pitzzahh\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.Properties.Resources.resources
+C:\Users\pitzzahh\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.GenerateResource.cache
+C:\Users\pitzzahh\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\pitzzahh\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\pitzzahh\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
