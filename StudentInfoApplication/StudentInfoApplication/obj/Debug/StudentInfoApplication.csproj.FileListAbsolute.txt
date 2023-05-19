@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\BR\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe.config
+C:\Users\Student\Documents\BR\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+C:\Users\Student\Documents\BR\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+C:\Users\Student\Documents\BR\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\BR\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\BR\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.frmStudentInfo.resources
+C:\Users\Student\Documents\BR\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.Properties.Resources.resources
+C:\Users\Student\Documents\BR\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.GenerateResource.cache
+C:\Users\Student\Documents\BR\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\BR\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.exe
+C:\Users\Student\Documents\BR\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.pdb
